@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/DAL_CuaHangSach/BillDAO.java=UTF-8
+encoding//src/DAL_CuaHangSach/BookDAO.java=UTF-8
+encoding//src/DAL_CuaHangSach/CheckValid.java=UTF-8
+encoding//src/DAL_CuaHangSach/CustomerDAO.java=UTF-8
+encoding//src/DAL_CuaHangSach/NhanVienDAO.java=UTF-8
+encoding//src/DAL_CuaHangSach/UserDAO.java=UTF-8
+encoding//src/GUI_CuaHangSach/Bills.java=UTF-8
+encoding//src/GUI_CuaHangSach/Books.java=UTF-8
+encoding//src/GUI_CuaHangSach/Customer.java=UTF-8
+encoding//src/GUI_CuaHangSach/Employee.java=UTF-8
+encoding//src/GUI_CuaHangSach/Login.java=UTF-8
+encoding//src/GUI_CuaHangSach/Signup.java=UTF-8
+encoding//src/GUI_CuaHangSach/Users.java=UTF-8
